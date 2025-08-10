@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>História do HTML</h1>
+<p><strong>O HTML </strong>, ou HyperText Markup Language, é a linguagem fundamental para a criação de páginas web. Sua história remonta ao início da década de 1990, com Tim Berners-Lee no CERN, na Suíça, como seu criador. O objetivo inicial era permitir que pesquisadores compartilhassem documentos de forma interligada, utilizando o conceito de hipertexto. </p>
+
+<img source = " "> </img>
+
+<p>Exemplo de Código <strong>Java Script </strong></p>
+
+<pre>
+const myHeading = documento.querySelector("h1");
+for (i = : i <= 10); i++ {
+myHeading.innerHTML = "Olá mundo!";
+</pre>
+
+<p>O código abaixo usa as tags <strong>sub </strong>, <strong>small</strong> e <strong>sup:</strong> </>
+
+<sub>1</sub>2<sup>3</sup><small>4</small> <sub>5</sub>6<sup>7</sup><small>8 </small>9
+</body>
+</html>
